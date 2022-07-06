@@ -66,6 +66,43 @@ h1{
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
-    
+}
 
+.plan{
+    margin-top: 90px;
+    text-align: center;
+}
+
+.service{
+    display: flex;
+    margin: 10px;
+}
+.service p {
+    text-align: justify;
+}
+
+
+.service-item1{
+    
+    margin: 20px;
+    width: 30%;
+    padding: 20px;
+    background-color: rgb(226, 243, 243);
+    border-radius: 20px;
+}
+
+.service-item2{
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(181, 238, 217);
+    border-radius: 20px;
+}
+
+.service-item3{
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(237, 239, 152);
+    border-radius: 20px;
 }
